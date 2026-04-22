@@ -1,13 +1,13 @@
 # Program Pemutar Musik Menggunakan Doubly Linked List
 
-Deskripsi Singkat
+# Deskripsi Singkat
 Program ini merupakan program pemutar musik sederhana menggunakan double linked list, yang dapat digunakan untuk menambah musik, melihat riwayat atau daftar musik, serta berpindah ke musik sebelumnya dan berikutnya. Program dapat menampilkan playlist musik dan menandai musik yang sedang diputar. Double linked list digunakan karena setiap node dapat menggunakan dua pointer next untuk musik selanjutnya dan prev untuk musik sebelumnya. Struktur ini sangat cocok digunakan karena memungkinkan navigasi dua arah secara tanpa perlu mengulang dari awal.
 
-Source Code
-<img width="271" height="96" alt="image" src="https://github.com/user-attachments/assets/36449513-dad0-48a0-bfe9-2f94178c8ca9" />
+# Source Code
+<img width="271" height="116" alt="image" src="https://github.com/user-attachments/assets/c6fee0f8-cb40-4452-bd98-0acd8639948b" />
 Pada baris 1–5, kode digunakan untuk membuat class Node yang berfungsi sebagai tempat menyimpan data musik. Pada baris 2 dibuat konstruktor __init__ yang akan dijalankan saat objek dibuat. Baris 3 menyimpan nama musik ke dalam atribut self.musik, sedangkan baris 4 dan 5 digunakan untuk menyimpan pointer ke node sebelumnya (prev) dan node berikutnya (next).
 
-<img width="263" height="114" alt="image" src="https://github.com/user-attachments/assets/67f8fa68-0bf4-4da0-bdcc-fe395c88ef0a" />
+<img width="260" height="94" alt="image" src="https://github.com/user-attachments/assets/7945c824-3378-4ce3-a278-9964adf94873" />
 Pada baris 7–10, baris 7 dibuat class Riwayatmusik sebagai class utama untuk mengelola playlist. Baris 8 konstruktor, baris 9 self.head sebagai node pertama, dan baris 10 self.current sebagai penunjuk musik yang sedang diputar.
 
 <img width="400" height="264" alt="image" src="https://github.com/user-attachments/assets/62e750cd-c447-4d08-bdea-b00c0a450666" />
@@ -31,7 +31,7 @@ Pada baris 56–62, merupakan program utama dengan perulangan while True agar pr
 <img width="402" height="285" alt="image" src="https://github.com/user-attachments/assets/fe6f7e0f-fbc4-419c-b945-38d1369fcf10" />
 Baris 64 menerima input dari user. Baris 65–67 digunakan untuk menambahkan musik ke dalam playlist. Baris 68–69 menampilkan playlist. Baris 70–71 digunakan untuk berpindah ke musik sebelumnya. Baris 72–73 untuk berpindah ke musik berikutnya. Baris 74–76 digunakan untuk keluar dari program dengan cara menghentikan perulangan (break). Sedangkan baris 77–78 berfungsi jika input tidak valid.
 
-Output Program
+# Output Program
 <img width="205" height="464" alt="image" src="https://github.com/user-attachments/assets/cb8e5a65-7dbc-4e8a-8ef0-3017e5f70c86" />
 User memilih menu 1 (Tambah musik) sebanyak tiga kali, program meminta input nama musik, dan user menginput Musik1, Musik2, dan Musik3, setiap input berhasil disimpan dan output: "Musik 'Musik1/2/3' ditambahkan".
 
@@ -65,5 +65,5 @@ Saat user memasukkan angka selain 1-5, program output: "Pilihan tidak valid"
 <img width="141" height="133" alt="image" src="https://github.com/user-attachments/assets/68d4bb50-fa99-446a-b332-e19fed39c4b3" />
 Saat pengguna memilih menu 5 (Keluar), program menampilkan: "Program selesai", kemudian program berhenti karena perintah break menghentikan perulangan while.
 
-Link YouTube
+# Link YouTube
 https://youtu.be/ntBmf_wXR_I
