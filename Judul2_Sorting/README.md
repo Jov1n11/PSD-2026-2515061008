@@ -39,4 +39,4 @@ Setelah semua data dimasukkan dengan benar, program akan menampilkan stok sebelu
 Selanjutnya, program menjalankan algoritma Insertion Sort untuk mengurutkan data berdasarkan jumlah stok, dan program akan menampilkan stok setelah diurutkan.  
 
 # Link YouTube
-https://youtu.be/
+https://youtu.be/5ySRO6Vtqco
