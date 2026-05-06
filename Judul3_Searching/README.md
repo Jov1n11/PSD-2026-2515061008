@@ -21,10 +21,10 @@ Output 1: Program output daftar nama beserta nomor telepon kepada user lalu memi
 Output 2: Sama seperti output 1, program akan output daftar nama beserta nomor telepon kepada user lalu meminta user untuk memasukkan nama yang ingin dicari, tetapi user memasukkan nama "budi". Karena ada fungsi lower(), program tetap melakukan proses Binary Search dan output: "Mengecek: Dina" "Mengecek: Budi". Program berhasil menemukan nama tersebut dan output nomor telepon yang sesuai.
 
 <img width="275" height="222" alt="image" src="https://github.com/user-attachments/assets/fb0752b9-e1df-4a85-861e-631a3084a413" />
-Output 3: Begitu juga dengan output 3, program tetap akan melakukan proses Binary Search walupun seluruh input dari user menggunakan huruf kapital pada input "CITRA".
+Output 3: Begitu juga dengan output 3, program tetap akan melakukan proses Binary Search walaupun seluruh input dari user menggunakan huruf kapital pada input "CITRA".
 
 <img width="269" height="257" alt="image" src="https://github.com/user-attachments/assets/b97e415e-0438-42f2-956c-29562a2e9dd4" />
-Output 4: Pada output 4, user memasukkan nama “Udin”, program melakukan proses pencarian hingga data habis diperiksa, namun karena nama tersebut tidak ada pada daftar kontak program akhirnya output pesan "Nama tidak ditemukan".
+Output 4: Pada output 4, user memasukkan nama “Udin”, program melakukan proses pencarian hingga data habis diperiksa, namun karena nama tersebut tidak ada pada daftar kontak, program akhirnya output pesan "Nama tidak ditemukan".
 
 # Link YouTube
 https://youtu.be/WWjXTlsIpoE
