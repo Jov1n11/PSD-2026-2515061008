@@ -47,7 +47,7 @@ User input "3", lalu program menampilkan isi queue dari depan ke belakang sesuai
 
 <img width="221" height="121" alt="image" src="https://github.com/user-attachments/assets/b09295e4-48e1-4bee-866e-470e9f3f25ef" />
 
-User input "2", lalu program melayani Budi karena prinsip queue yaitu melayani dari depan ke belakang sesuai urutan kedatangan pelanggan.
+User input "2", lalu program melayani Budi karena prinsip queue yaitu melayani pelanggan dari depan ke belakang sesuai urutan kedatangan pelanggan.
 
 <img width="144" height="133" alt="image" src="https://github.com/user-attachments/assets/2ad4f8d4-2cf4-4096-aa5b-f28f99d00b24" />
 
