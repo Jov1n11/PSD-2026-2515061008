@@ -52,7 +52,7 @@ User input "1" untuk menambahkan data barang. Program meminta input ID barang da
 
 <img width="229" height="337" alt="image" src="https://github.com/user-attachments/assets/bb1784c2-9de5-4840-8bbc-19e134529202" />
 
-user input "3", untuk menampilkan seluruh data barang. Program menampilkan daftar barang menggunakan traversal inorder sehingga data tampil secara terurut berdasarkan ID barang yaitu 25, 50, 100, dan 150.
+User input "3", untuk menampilkan seluruh data barang. Program menampilkan daftar barang menggunakan traversal inorder sehingga data tampil secara terurut berdasarkan ID barang yaitu 25, 50, 100, dan 150.
 
 <img width="249" height="320" alt="image" src="https://github.com/user-attachments/assets/88cc13ae-7806-44ba-b91b-a39ae22ec84f" />
 
