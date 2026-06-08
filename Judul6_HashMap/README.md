@@ -34,7 +34,7 @@ Pada baris 46 dibuat fungsi main() sebagai program utama. Pada baris 47 dibuat o
 
 <img width="453" height="152" alt="image" src="https://github.com/user-attachments/assets/c256b41a-8422-4670-bde4-1f0849f10a9a" />
 
-Pada baris 57 program meminta pengguna memasukkan NPM yang ingin dicari. Pada baris 59-63 fungsi search() dipanggil untuk mencari data mahasiswa berdasarkan NPM yang dimasukkan pengguna, lalu dilakukan pengecekan hasil pencarian. Jika data ditemukan maka program menampilkan nama mahasiswa yang sesuai. Jika data tidak ditemukan maka program menampilkan pesan "Mahasiswa tidak ditemukan"
+Pada baris 57 program meminta pengguna memasukkan NPM yang ingin dicari. Pada baris 59-63 fungsi search() dipanggil untuk mencari data mahasiswa berdasarkan NPM yang dimasukkan pengguna, lalu dilakukan pengecekan hasil pencarian. Jika data ditemukan maka program menampilkan nama mahasiswa yang sesuai. Jika data tidak ditemukan maka program menampilkan pesan "Mahasiswa tidak ditemukan".
 
 <img width="249" height="40" alt="image" src="https://github.com/user-attachments/assets/9094dac4-4a9e-4b20-ac64-1d04906c531f" />
 
